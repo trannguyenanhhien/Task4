@@ -1,0 +1,305 @@
+.main {
+  position: relative;
+}
+
+.menu {
+  position: fixed;
+  top: 0;
+  z-index: 4;
+  width: 100%;
+  border-bottom: 1px solid rgb(185, 185, 185);
+}
+
+.head-menu {
+  background-color: white;
+  padding: 10px;
+}
+
+.bgimg {
+  background-image: url(https://static.wixstatic.com/media/0396af7423c344a39107ad593c4500f8.jpg);
+  min-height: 100%;
+  position: relative;
+  opacity: 0.8;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.head-about {
+  margin-top: 57px;
+  background-color: black;
+  padding: 8px 0;
+  color: white;
+}
+
+.bgimg-logo {
+  margin-top: 40px;
+  margin-bottom: 400px;
+}
+
+.bgimg-text {
+  line-height: 1.6em;
+  letter-spacing: 0.1em;
+  font-size: 25px;
+  color: white;
+  margin-bottom: 200px;
+}
+
+.bgimg-title {
+  color: white;
+  font-size: 45px;
+}
+
+.about-us-title {
+  font-size: 80px;
+  line-height: 1.05em;
+  margin: 50px;
+}
+
+.about-us-text {
+  font-size: 24px;
+  font-style: normal;
+  margin: 30px 0 150px 190px;
+  color: rgb(65, 65, 65);
+}
+
+.harry-top-left {
+  background-image: url(https://static.wixstatic.com/media/21593d6909a64def8001202540902848.jpg);
+  height: 790px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+.harry-top-right {
+  background-image: url(https://static.wixstatic.com/media/cb2e86_46f5a9d25aa8429495c9c0daeaf91292~mv2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.harry-bot-left {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_a34b967db150425aab42d22a81f58ed2~mv2.jpg/v1/fill/w_487,h_365,al_c,q_80,usm_0.66_1.00_0.01/cb2e86_a34b967db150425aab42d22a81f58ed2~mv2.jpg
+  );
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 380px;
+}
+
+.harry-bot-mid {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_314a0fdce42a4af59bf09ac34a290e13~mv2.jpg/v1/fill/w_487,h_365,al_c,q_80,usm_0.66_1.00_0.01/cb2e86_314a0fdce42a4af59bf09ac34a290e13~mv2.jpg
+  );
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.harry-bot-right {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_ea40f649a58b483a90419cfe7a5b721b~mv2.jpg/v1/fill/w_487,h_365,al_c,q_80,usm_0.66_1.00_0.01/cb2e86_ea40f649a58b483a90419cfe7a5b721b~mv2.jpg
+  );
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.locations-left {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_de7a586781164a2fb05e923c0f3da2b0~mv2.jpg/v1/fill/w_976,h_778,al_c,q_85,usm_0.66_1.00_0.01/cb2e86_de7a586781164a2fb05e923c0f3da2b0~mv2.jpg
+  );
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 380px;
+}
+
+.locations-mid {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_366d631e05ff463bacb0e51c866eb3cf~mv2.jpg/v1/fill/w_757,h_606,al_l,q_85/cb2e86_366d631e05ff463bacb0e51c866eb3cf~mv2.jpg
+  );
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.locations-right {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_4a123699e56142f9a271e2118987f9a9~mv2_d_4032_3024_s_4_2.jpg/v1/fill/w_976,h_778,al_c,q_85,usm_0.66_1.00_0.01/cb2e86_4a123699e56142f9a271e2118987f9a9~mv2_d_4032_3024_s_4_2.jpg
+  );
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.music-live {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_4d0cd688de5142199358caa0b799ca15f000.jpg/v1/fill/w_864,h_271,al_c,lg_1,q_80,usm_0.33_1.00_0.00/cb2e86_4d0cd688de5142199358caa0b799ca15f000.jpg);
+  height: 450px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.party-girl {
+  background-image: url(
+    https://static.wixstatic.com/media/cb2e86_0254f683ccd24e898459a0ad6a1766f6~mv2_d_2048_1356_s_2.jpg/v1/fill/w_2048,h_1169,al_c,q_90/cb2e86_0254f683ccd24e898459a0ad6a1766f6~mv2_d_2048_1356_s_2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 900px;
+}
+
+.contact {
+  background-color: rgb(232, 232, 232);
+  margin: 25px 0;
+  height: 450px;
+}
+
+.footer {
+  margin-bottom: 10px;
+}
+
+body{
+  font-family: "Nunito", sans-serif;
+}
+
+.nav-link,
+.head-about {
+  font-size: 14px;
+  color: black;
+  transition-duration: 0.4s;
+}
+
+.head-about {
+  color: white;
+}
+
+.nav-link:hover {
+  color: rgb(161, 161, 161);
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  width: 140px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.font-new {
+  font-family: "Playfair Display", serif;
+}
+
+.font-new1{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+}
+
+.font-new2{
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+}
+
+small{
+  color: gray;
+}
+
+.locat{
+    margin: 80px 0 30px 0;
+}
+
+.locat-title{
+    color: rgb(235, 79, 22);
+    font-size: 50px;
+}
+
+.bar{
+    font-size: 80px;
+}
+
+.in{
+    font-size: 40px;
+}
+
+.take{
+    color: rgb(235, 79, 22);
+    font-size: 30px;
+}
+.locations a:hover{
+    color: rgb(235, 79, 22);
+}
+
+.locats{
+    margin-bottom: 10px;
+}
+
+#happy h1{
+  font-size: 80px;
+  margin: 100px 0 30px 0;
+}
+
+#happy p{
+  line-height: 0.1em;
+}
+
+.contact-cover{
+  margin: 50px;
+}
+
+.contact p{
+  color: rgb(104, 104, 104);
+  font-weight: lighter;
+  line-height: 1.3em;
+}
+
+.contact-left h1{
+  font-size: 90px;
+}
+
+.contact-und-head{
+  margin-bottom: 50px;
+}
+
+.contact-und{
+  width: 335px;
+  float: right;
+  margin: 80px 150px 0 0;
+}
+
+.contact-right{
+  margin-top: 30px;
+}
+
+.music-live span{
+  font-family: 'Anton', sans-serif;
+  font-size: 80px;
+  letter-spacing: 0.7em;
+  font-weight: bold;
+}
+
+.live{
+  color: rgb(139, 1, 0);
+  margin-left: 65px;
+}
+
+.music{
+  color: white;
+  margin-top: 50px;
+}
+
+.music-live-cover{
+  margin: 180px 300px 0 0;
+}
